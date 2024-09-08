@@ -1,2 +1,2 @@
 # Restaurant
-learning object oriented programming
+The Restaurant class in this Python script provides a basic implementation for managing a restaurant's operations. It allows for adding items to a menu with associated prices, reserving tables for clients, and recording customer orders by table number. The class includes methods to print the current menu, display reserved tables, and show active orders. This setup enables easy tracking of menu items, table reservations, and orders, making it a useful tool for restaurant management or similar applications.
